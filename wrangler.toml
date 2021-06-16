@@ -1,0 +1,9 @@
+name = "hello-world"
+type = 'webpack'
+account_id = '0615e2a1afa27030d960a510a797d2ac'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "dist",entry-point = "workers-site"}
